@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Estou em constante aprendizado, principalmente no que diz respeito ao HTML, CSS e JS.
+- 🌱 Estou em constante aprendizado, principalmente quando envolve HTML, CSS e JS.
 - 👯 Tem um projeto legal? Vamos trabalhar juntos!!!
 - 🤔 Busco ajudo com JS.
 
