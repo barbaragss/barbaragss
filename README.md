@@ -2,7 +2,7 @@
 
 - 🌱 Estou em constante aprendizado, principalmente quando envolve HTML, CSS e JS.
 - 👯 Tem um projeto legal? Vamos trabalhar juntos!!!
-- 🤔 Busco ajudo com JS.
+- 🤔 Busco ajuda com JS.
 
 
 <div align="center">
