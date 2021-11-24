@@ -1,9 +1,10 @@
 ### Hi there 👋
 
+- 🔭 Trabalho com Front-End em projetos pessoais
 - 🌱 Estou em constante aprendizado, principalmente quando envolve HTML, CSS e JS.
 - 👯 Tem um projeto legal? Vamos trabalhar juntos!!!
 - 🤔 Busco ajuda com JS.
-
+- 📫 Fale comigo por meio do meu linkedin.
 
 <div align="center">
   <a href="https://github.com/barbaragss">
@@ -21,5 +22,5 @@
  <div>
   <a href="https://www.linkedin.com/in/barbara-gabriela-573b9353/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-      badge&logo=linkedin&logoColor=white" target="_blank"></a>
    
-    ![Snake animation](https://github.com/barbaragss)
+  ![Snake animation](https://github.com/barbaragss/barbaragss/blob/output/github-contribution-grid-snake.svg)
  </div>
