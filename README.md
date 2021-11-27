@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Trabalho com Front-End em projetos pessoais.
+- 🔭 Trabalho como Desenvolvedora Front-End em projetos pessoais.
 - 🌱 Estou em constante aprendizado, principalmente quando envolve HTML, CSS e JS.
 - 👯 Tem um projeto legal? Vamos trabalhar juntos!!!
 - 🤔 Busco ajuda com JS.
