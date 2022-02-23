@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-- 🔭 Trabalho como Desenvolvedora Front-End em projetos pessoais.
-- 🌱 Estou em constante aprendizado, principalmente quando envolve HTML, CSS e JS.
+- 🔭 Desenvolvedora full stack
 - 👯 Tem um projeto legal? Vamos trabalhar juntos!!!
-- 🤔 Busco ajuda com JS.
 - 📫 Fale comigo por meio do meu linkedin.
 
 <div align="center">
