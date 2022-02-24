@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 Desenvolvedora full stack
-- 👯 Tem um projeto legal? Vamos trabalhar juntos!!!
 - 📫 Fale comigo por meio do meu linkedin.
 
 <div align="center">
