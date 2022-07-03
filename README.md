@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Desenvolvedora full stack
+- 🔭 Back End Developer
 - 📫 Fale comigo por meio do meu linkedin.
 
 <div align="center">
